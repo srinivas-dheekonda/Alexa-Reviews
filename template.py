@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO,format='[%(asctime)s]:%(message)s:')
 
-project_name = "Alexareviews"
+project_name = "alexareviews"
 
 list_of_file = [
     ".github/workflows/.gitkeep",
@@ -24,7 +24,7 @@ list_of_file = [
     "main.py",
     "Dockerfile",
     "requirements.txt",
-    "setup.py",
+    "setup.py",    
     "research/trails.ipynb",
     "test.py"
 

@@ -8,7 +8,7 @@ __version__ ="0.0.0"
 
 REPO_NAME = "end-to-end-alexa_reviews"
 AUTHOR_USER_NAME = "srinivas-dheekonda"
-SRC_REPO = "Alexareviews"
+SRC_REPO = "alexareviews"
 AUTHOR_EMAIL="vasuvasu.srinu1996@gmail.com"
 
 
